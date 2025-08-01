@@ -10,3 +10,7 @@ This template should help get you started developing with Tauri and React in Vit
 --
 
 I’m creating this project as a hobby to learn about Tauri. I’d also love to create a browser that doesn’t require a significant portion of a website just to have a navigation bar. That is why the vision for this project is to have a simple, fast, focused web browser.
+
+
+https://github.com/user-attachments/assets/0a47cef1-bcb4-4299-9c65-7406946f9708
+
